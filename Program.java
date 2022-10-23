@@ -11,7 +11,7 @@ public class Program {
         mhs = new Mentor("Alun Sujjada M.Kom");
         mhs.info();
 
-        mhs = new Subject("Pemrograman berorientasi Objek");
+        mhs = new Subjek("Pemrograman berorientasi Objek");
         mhs.info();
 
         waktu(100);
